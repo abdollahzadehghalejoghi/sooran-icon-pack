@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Sooran-Icon-Pack-Brands';
+  src:  url('../webfonts/Sooran-Icon-Pack-Brands.eot?j56ulm');
+  src:  url('../webfonts/Sooran-Icon-Pack-Brands.eot?j56ulm#iefix') format('embedded-opentype'),
+    url('../webfonts/Sooran-Icon-Pack-Brands.ttf?j56ulm') format('truetype'),
+    url('../webfonts/Sooran-Icon-Pack-Brands.woff?j56ulm') format('woff'),
+    url('../webfonts/Sooran-Icon-Pack-Brands.svg?j56ulm#Sooran-Icon-Pack-Brands') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="s-"], [class*=" s-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Sooran-Icon-Pack-Brands' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.s-tinet:before {
+  content: "\e918";
+}
+.s-tinet-alt:before {
+  content: "\e917";
+}

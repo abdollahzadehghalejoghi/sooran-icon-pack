@@ -1,20 +1,20 @@
 {
   "name": "sooran-icon-pack",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "The Icon Pack SVG For Sooran.co",
   "license": "MIT",
   "repository": "A20Group/sooran-icon-pack",
   "author": {
     "name": "AmirHossein Abdollahzadeh",
-    "email": "A20Group@yahoo.com",
+    "email": "abdollahzadeh.amirhossein@gmail.com",
     "url": "http://amirhosseinabdollahzadeh.ir"
   },
   "homepage": "https://github.com/A20Group/sooran-icon-pack",
   "bugs": "https://github.com/A20Group/sooran-icon-pack/issues",
-  "main": "solid/index.js",
-  "module": "solid/index.es.js",
-  "types": "./solid/index.d.ts",
-  "jsnext:main": "solid/index.es.js",
+  "main": "js-packages/solid/index.js",
+  "module": "js-packages/solid/index.es.js",
+  "types": "./js-packages/solid/index.d.ts",
+  "jsnext:main": "js-packages/solid/index.es.js",
   "engines": {
     "node": ">=6"
   },
