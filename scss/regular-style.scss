@@ -26,6 +26,16 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.s-download {
+  &:before {
+    content: $s-download; 
+  }
+}
+.s-circle-plus {
+  &:before {
+    content: $s-circle-plus; 
+  }
+}
 .s-circle {
   &:before {
     content: $s-circle; 
@@ -41,4 +51,3 @@
     content: $s-square; 
   }
 }
-

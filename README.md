@@ -10,7 +10,7 @@ Install the Font Awesome SVG Core and Sooran Icon Pack
 
 ```
 
-npm i --save @fortawesome/fontawesome-svg-core sooran-icon-pack
+npm i @fortawesome/fontawesome-svg-core sooran-icon-pack --save 
 
 ```
 
@@ -22,4 +22,4 @@ Or go straight to the [API documentation](https://fontawesome.com/how-to-use/wit
 
 ## Issues and support
 
-Start with [GitHub issues](https://github.com/A20Group/sooran-icon-pack/issues) and ping us on [WebSite](http://amirhosseinabdollahzadeh.ir) if you need to.
+Start with [GitHub issues](https://github.com/A20Group/sooran-icon-pack/issues) and ping us on [WebSite](http://iconpack.sooran.co/) if you need to.

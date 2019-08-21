@@ -3,7 +3,7 @@ Object.defineProperty(exports, '__esModule', {
   value: true
 });
 var prefix = 'fas';
-var iconName = 'head-phone';
+var iconName = 'headphone';
 var width = 512;
 var height = 512;
 var ligatures = [];

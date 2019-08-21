@@ -26,6 +26,76 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.s-edit {
+  &:before {
+    content: $s-edit; 
+  }
+}
+.s-plus {
+  &:before {
+    content: $s-plus; 
+  }
+}
+.s-times {
+  &:before {
+    content: $s-times; 
+  }
+}
+.s-users-group {
+  &:before {
+    content: $s-users-group; 
+  }
+}
+.s-telephone {
+  &:before {
+    content: $s-telephone; 
+  }
+}
+.s-envelope {
+  &:before {
+    content: $s-envelope; 
+  }
+}
+.s-upload {
+  &:before {
+    content: $s-upload; 
+  }
+}
+.s-times-square {
+  &:before {
+    content: $s-times-square; 
+  }
+}
+.s-user-circle {
+  &:before {
+    content: $s-user-circle; 
+  }
+}
+.s-exit {
+  &:before {
+    content: $s-exit; 
+  }
+}
+.s-check {
+  &:before {
+    content: $s-check; 
+  }
+}
+.s-angle-left {
+  &:before {
+    content: $s-angle-left; 
+  }
+}
+.s-angle-right {
+  &:before {
+    content: $s-angle-right; 
+  }
+}
+.s-angle-up {
+  &:before {
+    content: $s-angle-up; 
+  }
+}
 .s-angle-down {
   &:before {
     content: $s-angle-down; 

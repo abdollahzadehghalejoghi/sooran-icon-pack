@@ -1,6 +1,8 @@
 export const sHistory: IconDefinition;
 export const sSquare: IconDefinition;
 export const sCircle: IconDefinition;
+export const sCirclePlus: IconDefinition;
+export const sDownload: IconDefinition;
 import {
   IconDefinition,
   IconLookup,

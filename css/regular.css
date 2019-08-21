@@ -24,6 +24,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.s-download:before {
+  content: "\e930";
+}
+.s-circle-plus:before {
+  content: "\e922";
+}
 .s-circle:before {
   content: "\e914";
 }

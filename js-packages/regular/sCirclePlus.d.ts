@@ -4,7 +4,7 @@ import {
   IconName
 } from "@fortawesome/fontawesome-common-types";
 export const definition: IconDefinition;
-export const sTinetMark: IconDefinition;
+export const sCirclePlus: IconDefinition;
 export const prefix: IconPrefix;
 export const iconName: IconName;
 export const width: number;

@@ -1,3 +1,10 @@
+export const sUsersGroup: IconDefinition;
+export const sUpload: IconDefinition;
+export const sTimes: IconDefinition;
+export const sTelephone: IconDefinition;
+export const sPlus: IconDefinition;
+export const sEnvelope: IconDefinition;
+export const sEdit: IconDefinition;
 export const sUser: IconDefinition;
 export const sApartment: IconDefinition;
 export const sLock: IconDefinition;
@@ -18,6 +25,14 @@ export const sSetting: IconDefinition;
 export const sAngleDown: IconDefinition;
 export const sIdCard: IconDefinition;
 export const sUserAlt1: IconDefinition;
+export const sUserCircle: IconDefinition;
+export const sExit: IconDefinition;
+export const sCheck: IconDefinition;
+export const sAngleLeft: IconDefinition;
+export const sAngleRight: IconDefinition;
+export const sAngleUp: IconDefinition;
+export const sTimesSquare: IconDefinition;
+
 import {
   IconDefinition,
   IconLookup,

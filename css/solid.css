@@ -24,6 +24,48 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.s-edit:before {
+  content: "\e935";
+}
+.s-plus:before {
+  content: "\e931";
+}
+.s-times:before {
+  content: "\e928";
+}
+.s-users-group:before {
+  content: "\e929";
+}
+.s-telephone:before {
+  content: "\e933";
+}
+.s-envelope:before {
+  content: "\e926";
+}
+.s-upload:before {
+  content: "\e927";
+}
+.s-times-square:before {
+  content: "\e932";
+}
+.s-user-circle:before {
+  content: "\e923";
+}
+.s-exit:before {
+  content: "\e925";
+}
+.s-check:before {
+  content: "\e924";
+}
+.s-angle-left:before {
+  content: "\e921";
+}
+.s-angle-right:before {
+  content: "\e919";
+}
+.s-angle-up:before {
+  content: "\e920";
+}
 .s-angle-down:before {
   content: "\e900";
 }
