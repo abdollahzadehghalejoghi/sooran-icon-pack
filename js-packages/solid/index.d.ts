@@ -32,6 +32,35 @@ export const sAngleLeft: IconDefinition;
 export const sAngleRight: IconDefinition;
 export const sAngleUp: IconDefinition;
 export const sTimesSquare: IconDefinition;
+export const sFileEdit: IconDefinition;
+export const sDangerSign: IconDefinition;
+export const sApartmentPark: IconDefinition;
+export const sShieldDanger: IconDefinition;
+export const sCreditCard: IconDefinition;
+export const sTimesCircle: IconDefinition;
+export const sAntenna: IconDefinition;
+export const sAttachment: IconDefinition;
+export const sBarcode: IconDefinition;
+export const sCatalog: IconDefinition;
+export const sChart: IconDefinition;
+export const sFactory: IconDefinition;
+export const sGift1: IconDefinition;
+export const sHandshake: IconDefinition;
+export const sHelp: IconDefinition;
+export const sPicture: IconDefinition;
+export const sRefresh: IconDefinition;
+export const sCorrect: IconDefinition;
+export const sApartments: IconDefinition;
+export const sPassword: IconDefinition;
+export const sSafe: IconDefinition;
+export const sWrench: IconDefinition;
+export const sArrowUp: IconDefinition;
+export const sArrowDown: IconDefinition;
+export const sArrowLeft: IconDefinition;
+export const sArrowRight: IconDefinition;
+export const sStudy: IconDefinition;
+export const sBoss: IconDefinition;
+export const sChecklistAlt1: IconDefinition;
 
 import {
   IconDefinition,
