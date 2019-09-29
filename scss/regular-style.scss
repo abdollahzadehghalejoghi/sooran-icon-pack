@@ -26,14 +26,234 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.s-bag {
+  &:before {
+    content: $s-bag; 
+  }
+}
+.s-company {
+  &:before {
+    content: $s-company; 
+  }
+}
+.s-connections {
+  &:before {
+    content: $s-connections; 
+  }
+}
+.s-garbage {
+  &:before {
+    content: $s-garbage; 
+  }
+}
+.s-light {
+  &:before {
+    content: $s-light; 
+  }
+}
+.s-programming {
+  &:before {
+    content: $s-programming; 
+  }
+}
+.s-smartphone-settings {
+  &:before {
+    content: $s-smartphone-settings; 
+  }
+}
+.s-web-design {
+  &:before {
+    content: $s-web-design; 
+  }
+}
+.s-house-contract {
+  &:before {
+    content: $s-house-contract; 
+  }
+}
+.s-checklist {
+  &:before {
+    content: $s-checklist; 
+  }
+}
+.s-resume-alt-1 {
+  &:before {
+    content: $s-resume-alt-1; 
+  }
+}
+.s-resume-alt {
+  &:before {
+    content: $s-resume-alt; 
+  }
+}
+.s-rosary {
+  &:before {
+    content: $s-rosary; 
+  }
+}
+.s-rank {
+  &:before {
+    content: $s-rank; 
+  }
+}
+.s-muffin {
+  &:before {
+    content: $s-muffin; 
+  }
+}
+.s-mouse {
+  &:before {
+    content: $s-mouse; 
+  }
+}
+.s-canvas {
+  &:before {
+    content: $s-canvas; 
+  }
+}
+.s-card-vip {
+  &:before {
+    content: $s-card-vip; 
+  }
+}
+.s-gauge {
+  &:before {
+    content: $s-gauge; 
+  }
+}
+.s-Information {
+  &:before {
+    content: $s-Information; 
+  }
+}
+.s-leaflet {
+  &:before {
+    content: $s-leaflet; 
+  }
+}
+.s-list {
+  &:before {
+    content: $s-list; 
+  }
+}
+.s-location {
+  &:before {
+    content: $s-location; 
+  }
+}
+.s-money {
+  &:before {
+    content: $s-money; 
+  }
+}
+.s-play-button {
+  &:before {
+    content: $s-play-button; 
+  }
+}
+.s-resume {
+  &:before {
+    content: $s-resume; 
+  }
+}
+.s-search {
+  &:before {
+    content: $s-search; 
+  }
+}
+.s-settings {
+  &:before {
+    content: $s-settings; 
+  }
+}
+.s-smartphone {
+  &:before {
+    content: $s-smartphone; 
+  }
+}
+.s-speakers {
+  &:before {
+    content: $s-speakers; 
+  }
+}
+.s-tablet {
+  &:before {
+    content: $s-tablet; 
+  }
+}
+.s-timer {
+  &:before {
+    content: $s-timer; 
+  }
+}
+.s-vip-star {
+  &:before {
+    content: $s-vip-star; 
+  }
+}
+.s-circle-check {
+  &:before {
+    content: $s-circle-check; 
+  }
+}
+.s-eye {
+  &:before {
+    content: $s-eye; 
+  }
+}
+.s-factory {
+  &:before {
+    content: $s-factory; 
+  }
+}
+.s-antenna {
+  &:before {
+    content: $s-antenna; 
+  }
+}
+.s-attachment {
+  &:before {
+    content: $s-attachment; 
+  }
+}
+.s-contract {
+  &:before {
+    content: $s-contract; 
+  }
+}
+.s-folder {
+  &:before {
+    content: $s-folder; 
+  }
+}
+.s-gift {
+  &:before {
+    content: $s-gift; 
+  }
+}
+.s-heart {
+  &:before {
+    content: $s-heart; 
+  }
+}
+.s-leaf {
+  &:before {
+    content: $s-leaf; 
+  }
+}
+.s-credit-card {
+  &:before {
+    content: $s-credit-card; 
+  }
+}
 .s-download {
   &:before {
     content: $s-download; 
   }
 }
-.s-circle-plus {
+.s-circle-plus1 {
   &:before {
-    content: $s-circle-plus; 
+    content: $s-circle-plus1; 
   }
 }
 .s-circle {
@@ -51,3 +271,9 @@
     content: $s-square; 
   }
 }
+.s-tinet-alt {
+  &:before {
+    content: $s-tinet-alt; 
+  }
+}
+

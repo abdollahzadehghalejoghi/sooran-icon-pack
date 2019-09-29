@@ -26,6 +26,271 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.s-printer {
+  &:before {
+    content: $s-printer; 
+  }
+}
+.s-money-alt {
+  &:before {
+    content: $s-money-alt; 
+  }
+}
+.s-mouse-pointer {
+  &:before {
+    content: $s-mouse-pointer; 
+  }
+}
+.s-satellite-dish {
+  &:before {
+    content: $s-satellite-dish; 
+  }
+}
+.s-arrow-down {
+  &:before {
+    content: $s-arrow-down; 
+  }
+}
+.s-arrow-left {
+  &:before {
+    content: $s-arrow-left; 
+  }
+}
+.s-arrow-right {
+  &:before {
+    content: $s-arrow-right; 
+  }
+}
+.s-arrow-up {
+  &:before {
+    content: $s-arrow-up; 
+  }
+}
+.s-down-circle-arrow {
+  &:before {
+    content: $s-down-circle-arrow; 
+  }
+}
+.s-left-circle-arrow {
+  &:before {
+    content: $s-left-circle-arrow; 
+  }
+}
+.s-right-circle-arrow {
+  &:before {
+    content: $s-right-circle-arrow; 
+  }
+}
+.s-up-circle-arrow {
+  &:before {
+    content: $s-up-circle-arrow; 
+  }
+}
+.s-wrench {
+  &:before {
+    content: $s-wrench; 
+  }
+}
+.s-checklist-alt {
+  &:before {
+    content: $s-checklist-alt; 
+  }
+}
+.s-gift-alt {
+  &:before {
+    content: $s-gift-alt; 
+  }
+}
+.s-study {
+  &:before {
+    content: $s-study; 
+  }
+}
+.s-book {
+  &:before {
+    content: $s-book; 
+  }
+}
+.s-boss {
+  &:before {
+    content: $s-boss; 
+  }
+}
+.s-circle-plus {
+  &:before {
+    content: $s-circle-plus; 
+  }
+}
+.s-female {
+  &:before {
+    content: $s-female; 
+  }
+}
+.s-female-user {
+  &:before {
+    content: $s-female-user; 
+  }
+}
+.s-line-chart {
+  &:before {
+    content: $s-line-chart; 
+  }
+}
+.s-location-pin {
+  &:before {
+    content: $s-location-pin; 
+  }
+}
+.s-magnifier {
+  &:before {
+    content: $s-magnifier; 
+  }
+}
+.s-male {
+  &:before {
+    content: $s-male; 
+  }
+}
+.s-male-user {
+  &:before {
+    content: $s-male-user; 
+  }
+}
+.s-mouse-arrow {
+  &:before {
+    content: $s-mouse-arrow; 
+  }
+}
+.s-notification {
+  &:before {
+    content: $s-notification; 
+  }
+}
+.s-play {
+  &:before {
+    content: $s-play; 
+  }
+}
+.s-police-station {
+  &:before {
+    content: $s-police-station; 
+  }
+}
+.s-presentation {
+  &:before {
+    content: $s-presentation; 
+  }
+}
+.s-progress-chart {
+  &:before {
+    content: $s-progress-chart; 
+  }
+}
+.s-qrcode {
+  &:before {
+    content: $s-qrcode; 
+  }
+}
+.s-shell {
+  &:before {
+    content: $s-shell; 
+  }
+}
+.s-tap {
+  &:before {
+    content: $s-tap; 
+  }
+}
+.s-tree {
+  &:before {
+    content: $s-tree; 
+  }
+}
+.s-umbrella {
+  &:before {
+    content: $s-umbrella; 
+  }
+}
+.s-check-alt {
+  &:before {
+    content: $s-check-alt; 
+  }
+}
+.s-file-edit {
+  &:before {
+    content: $s-file-edit; 
+  }
+}
+.s-danger-sign {
+  &:before {
+    content: $s-danger-sign; 
+  }
+}
+.s-apartment-park {
+  &:before {
+    content: $s-apartment-park; 
+  }
+}
+.s-shield-danger {
+  &:before {
+    content: $s-shield-danger; 
+  }
+}
+.s-times-circle {
+  &:before {
+    content: $s-times-circle; 
+  }
+}
+.s-barcode {
+  &:before {
+    content: $s-barcode; 
+  }
+}
+.s-catalog {
+  &:before {
+    content: $s-catalog; 
+  }
+}
+.s-chart {
+  &:before {
+    content: $s-chart; 
+  }
+}
+.s-handshake {
+  &:before {
+    content: $s-handshake; 
+  }
+}
+.s-help {
+  &:before {
+    content: $s-help; 
+  }
+}
+.s-picture {
+  &:before {
+    content: $s-picture; 
+  }
+}
+.s-refresh {
+  &:before {
+    content: $s-refresh; 
+  }
+}
+.s-apartments {
+  &:before {
+    content: $s-apartments; 
+  }
+}
+.s-password {
+  &:before {
+    content: $s-password; 
+  }
+}
+.s-safe {
+  &:before {
+    content: $s-safe; 
+  }
+}
 .s-edit {
   &:before {
     content: $s-edit; 
@@ -194,6 +459,11 @@
 .s-user-alt-1 {
   &:before {
     content: $s-user-alt-1; 
+  }
+}
+.s-tinet {
+  &:before {
+    content: $s-tinet; 
   }
 }
 

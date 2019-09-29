@@ -24,6 +24,165 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.s-printer:before {
+  content: "\e834";
+}
+.s-money-alt:before {
+  content: "\e828";
+}
+.s-mouse-pointer:before {
+  content: "\e829";
+}
+.s-satellite-dish:before {
+  content: "\e831";
+}
+.s-arrow-down:before {
+  content: "\e814";
+}
+.s-arrow-left:before {
+  content: "\e815";
+}
+.s-arrow-right:before {
+  content: "\e816";
+}
+.s-arrow-up:before {
+  content: "\e817";
+}
+.s-down-circle-arrow:before {
+  content: "\e818";
+}
+.s-left-circle-arrow:before {
+  content: "\e996";
+}
+.s-right-circle-arrow:before {
+  content: "\e819";
+}
+.s-up-circle-arrow:before {
+  content: "\e820";
+}
+.s-wrench:before {
+  content: "\e964";
+}
+.s-checklist-alt:before {
+  content: "\e991";
+}
+.s-gift-alt:before {
+  content: "\e951";
+}
+.s-study:before {
+  content: "\e810";
+}
+.s-book:before {
+  content: "\e989";
+}
+.s-boss:before {
+  content: "\e990";
+}
+.s-circle-plus:before {
+  content: "\e992";
+}
+.s-female:before {
+  content: "\e993";
+}
+.s-female-user:before {
+  content: "\e994";
+}
+.s-line-chart:before {
+  content: "\e997";
+}
+.s-location-pin:before {
+  content: "\e998";
+}
+.s-magnifier:before {
+  content: "\e999";
+}
+.s-male:before {
+  content: "\e800";
+}
+.s-male-user:before {
+  content: "\e801";
+}
+.s-mouse-arrow:before {
+  content: "\e802";
+}
+.s-notification:before {
+  content: "\e803";
+}
+.s-play:before {
+  content: "\e804";
+}
+.s-police-station:before {
+  content: "\e805";
+}
+.s-presentation:before {
+  content: "\e806";
+}
+.s-progress-chart:before {
+  content: "\e807";
+}
+.s-qrcode:before {
+  content: "\e808";
+}
+.s-shell:before {
+  content: "\e92d";
+}
+.s-tap:before {
+  content: "\e811";
+}
+.s-tree:before {
+  content: "\e812";
+}
+.s-umbrella:before {
+  content: "\e813";
+}
+.s-check-alt:before {
+  content: "\e957";
+}
+.s-file-edit:before {
+  content: "\e960";
+}
+.s-danger-sign:before {
+  content: "\e949";
+}
+.s-apartment-park:before {
+  content: "\e958";
+}
+.s-shield-danger:before {
+  content: "\e963";
+}
+.s-times-circle:before {
+  content: "\e956";
+}
+.s-barcode:before {
+  content: "\e945";
+}
+.s-catalog:before {
+  content: "\e946";
+}
+.s-chart:before {
+  content: "\e947";
+}
+.s-handshake:before {
+  content: "\e952";
+}
+.s-help:before {
+  content: "\e953";
+}
+.s-picture:before {
+  content: "\e954";
+}
+.s-refresh:before {
+  content: "\e955";
+}
+.s-apartments:before {
+  content: "\e959";
+}
+.s-password:before {
+  content: "\e961";
+}
+.s-safe:before {
+  content: "\e962";
+}
 .s-edit:before {
   content: "\e935";
 }
@@ -125,4 +284,7 @@
 }
 .s-user-alt-1:before {
   content: "\e913";
+}
+.s-tinet:before {
+  content: "\e918";
 }

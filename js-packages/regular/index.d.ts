@@ -33,6 +33,25 @@ export const sSpeakers: IconDefinition;
 export const sTablet: IconDefinition;
 export const sTimer: IconDefinition;
 export const sVipStar: IconDefinition;
+export const sCheck: IconDefinition;
+export const sArrowUp: IconDefinition;
+export const sArrowDown: IconDefinition;
+export const sArrowLeft: IconDefinition;
+export const sArrowRight: IconDefinition;
+export const sAntenna: IconDefinition;
+export const sAttachment: IconDefinition;
+export const sFactory: IconDefinition;
+export const sCircleCheck: IconDefinition;
+export const sBag: IconDefinition;
+export const sCompany: IconDefinition;
+export const sConnections: IconDefinition;
+export const sGarbage: IconDefinition;
+export const sLight: IconDefinition;
+export const sProgramming: IconDefinition;
+export const sSmartphoneSettings: IconDefinition;
+export const sWebDesign: IconDefinition;
+
+
 import {
   IconDefinition,
   IconLookup,
